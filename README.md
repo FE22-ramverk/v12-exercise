@@ -2,7 +2,7 @@
 
 1. I din ```App.jsx``` ska du rendera ut namnet **Ada Lovelace** som finns sparad i en variabel.
 2. Ska en ny fil som heter ```Image.jsx``` som är en funktionell komponent
-   och visar denna bilden https://commons.wikimedia.org/wiki/File:Ada_Lovelace_portrait.jpg. ```App.jsx``` ska sedan importera denna komponent och rendera den.
+   och visar denna bilden https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Ada_Lovelace_portrait.jpg/626px-Ada_Lovelace_portrait.jpg?20130907213703. ```App.jsx``` ska sedan importera denna komponent och rendera den.
 3. Skapa en tredje komponent som heter ```About.jsx``` som även den är en funktionella komponent och ska     exporteras och sedan importeras av ```App.jsx```. Denna komponent ska visa texten som finns nedanför här.
 
 ## Text för About.js
